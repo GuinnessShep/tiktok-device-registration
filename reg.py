@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "" # contact t.me/scrapguru for test key
+API_KEY = "036141108000fde7ce29b51fbe74c6b04a86b996c439f9f1af0c" # contact t.me/scrapguru for test key
 
 def device_reg():
     if API_KEY == "":
